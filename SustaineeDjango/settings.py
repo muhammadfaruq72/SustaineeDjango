@@ -79,6 +79,8 @@ DATABASES = {
         'NAME': 'sustainee',
         'USER': 'admin',
         'PASSWORD': 'admin',
+        "HOST": "db",  # set in docker-compose.yml
+        "PORT": 5432,  # default postgres port
 
     }
 }
