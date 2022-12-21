@@ -1,0 +1,10 @@
+rembg
+ddddsr
+psycopg2-binary
+django
+strawberry-django-auth
+strawberry-graphql
+strawberry-graphql-django
+django-cors-headers
+colorama
+torchvision
